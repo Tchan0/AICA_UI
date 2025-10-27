@@ -6,6 +6,8 @@
 
 Hence - use at your own risk / no warranties given.
 
+![AICA_UI](img/AICA_UI.png)
+
 ## Prerequisites:
 * [a working KallistiOs installation](https://dreamcast.wiki/Startdev), ideally with [PR 549 merged](https://github.com/KallistiOS/KallistiOS/pull/549) for better speed (ie, >= 11 May 2024)
 * Python (3) installed, including the possibility to make Python virtual environments (venv)
